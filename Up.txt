@@ -1,5 +1,5 @@
 {"version_code":0x2,"content":"
-<p> تحديث|Update 0.20.22L</p>
+<p> تحديث|Update v6.90</p>
 
 
 <li>تحديث جديد متاح</li>
@@ -8,5 +8,4 @@
 <li> New Update Available</li>
 
 
-","url":"https://soula107.blogspot.com/2019/08/wago.html"
-}
+","url":"https://whatsapp-plus-gb-ob-sa-kr-sy.blogspot.com/"
