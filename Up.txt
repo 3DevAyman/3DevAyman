@@ -1,4 +1,4 @@
-{"version_code":553194,"content":"
+{"version_code":0x1,"content":"
 <p> تحديث|Update 0.20.22L</p>
 
 
